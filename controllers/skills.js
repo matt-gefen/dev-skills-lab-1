@@ -1,4 +1,4 @@
-import * as skillsDb from "../data/skills-db.js
+import * as skillsDb from "../data/skills-db.js"
 
 function index(req, res) {
   skillsDb.find({}, function(error, skills) {
