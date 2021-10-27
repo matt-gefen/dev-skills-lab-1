@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: url('https://thumbs.gfycat.com/ZanyGrimGodwit-size_restricted.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+a {
+  color:aqua;
+  margin-top: 20px;
+  font-size: 30px;
+}
