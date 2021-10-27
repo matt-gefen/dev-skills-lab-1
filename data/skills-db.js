@@ -7,20 +7,20 @@ const skills = [
   },
   {
     skill: 'Python',
-    description: 'Refined my Python skills in a Data Science context at GA!',
+    description: 'Refined my Python skills in a Data Science context at GA in Boston!',
     from_seir: false,
     _id: 24356
   },
   {
     skill: 'JavaScript',
     description: 'I\'ve loved learning to apply JS to create dynamic web pages!',
-    from_seir: true,
+    fromSeir: true,
     _id: 23378
   },
   {
     skill: 'CSS',
     description: 'The tough work of making garbage look like treasure.',
-    from_seir: true,
+    fromSeir: true,
     _id: 28398
   }
 ]
