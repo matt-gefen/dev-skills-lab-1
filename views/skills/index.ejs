@@ -23,6 +23,12 @@
             <%= skill.description %>
           </li>
         </ul>
+        <form
+          action="/skills/<%=skill._id%>?_method=DELETE"
+          class='delete-form'
+          method="POST">
+          <button type="submit">De-Skill</button>
+        </form>
       </li>
 
     <% }) %>
